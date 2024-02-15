@@ -1,0 +1,16 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": false
+    },
+    {
+      "path": "sdocs-flow-demos",
+      "default": true
+    }
+  ],
+  "name": "townhall-demo-2024",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
